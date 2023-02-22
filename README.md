@@ -1,7 +1,5 @@
 # Discord-Clone
 
-Clone this repository
-
 
 Installation 
 
